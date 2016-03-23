@@ -9,4 +9,4 @@ Welcome to sfGuo's repository!
 
 ## About my program
  - Actually, this is my homwork page,I would submit my computationalphysics homework here,as follows:
- - first, this is my first homework [baidu](www.baidu.com).
+ - first, this is my first homework [TEST](https://www.zybuluo.com/feipai11/note/322097).
