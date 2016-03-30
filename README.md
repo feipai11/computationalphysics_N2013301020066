@@ -9,4 +9,5 @@ Welcome to sfGuo's repository!
 
 ## About my program
  > - Actually, this is my homwork page,I would submit my computationalphysics homework here,as follows:
- > - This is my forth homework  and the report [*Homework 4*](https://www.zybuluo.com/feipai11/note/322097).
+ > - This is my forth homework  and the report [*the parachute model*](https://www.zybuluo.com/feipai11/note/322097).
+ > - This is my fifth homework and the report [*the populatin model*](https://www.zybuluo.com/mdeditor#330031)
