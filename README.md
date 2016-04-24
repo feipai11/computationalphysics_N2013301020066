@@ -13,3 +13,4 @@ Welcome to sfGuo's repository!
  > - This is my **5th** homework and the report [*the populatin model*](https://www.zybuluo.com/feipai11/note/330031).
  > - This is my **6th** homework and the report [*the cannon nodel*](https://www.zybuluo.com/feipai11/note/350882)
  > - This is the **8th** homework and the report [*the pendulum model*](https://www.zybuluo.com/feipai11/note/350785).
+ > - This is the **9th** homework and the report [*the chaotic pendulum medol*](https://www.zybuluo.com/feipai11/note/356344).
