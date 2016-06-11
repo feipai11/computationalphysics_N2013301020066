@@ -16,4 +16,7 @@ Welcome to sfGuo's repository!
  > - This is the **8th** homework and the report [*the pendulum model*](https://www.zybuluo.com/feipai11/note/350785).
  > - This is the **9th** homework and the report [*the chaotic pendulum model*](https://www.zybuluo.com/feipai11/note/356344).
  > - This is the **10th** homework and the report [*the lorenz model*](https://www.zybuluo.com/feipai11/note/392246)未完成.
-  > - This is the **10th** homework and the report [*the planet model*](https://www.zybuluo.com/feipai11/note/394686)未完成.
+ > - This is the **11th** homework and the report [*the planet model*](https://www.zybuluo.com/feipai11/note/394686)未完成.
+ > - This is the **12th** homework and the report [*the threebody model*](https://www.zybuluo.com/feipai11/note/395820)未完成.
+ > - This is the **13th** homework and the report [*the potential model*](https://www.zybuluo.com/feipai11/note/395822)未完成.
+ > - This is the **14th** homework and the report [*the wave model*](https://www.zybuluo.com/feipai11/note/395825).  
