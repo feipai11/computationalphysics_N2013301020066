@@ -67,9 +67,9 @@ class two_dlattice:
         x=np.linspace(0,30,30)
         y=np.linspace(0,30,30)
         X, Y = np.meshgrid(x, y)
-        f1=np.outer(sin(pi/30*x),sin(pi/30*x))
-        f2=np.outer(sin(pi/30*x),sin(2*pi/30*x))
-        f3=np.outer(sin(2*pi/30*x),sin(2*pi/30*x))
+        f1=self.f[1]
+        f2=self.f[2]
+        f3=self.f[3]
         fig = plt.figure(figsize=(15,4))
         ax = fig.add_subplot(1,3,1,projection='3d')
         surf=ax.plot_surface(X,Y,f1,rstride=1, cstride=1,linewidth=0, antialiased=False,cmap=cm.coolwarm)

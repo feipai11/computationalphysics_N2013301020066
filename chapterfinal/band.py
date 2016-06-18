@@ -4,7 +4,7 @@ import time
 
 class Band:
     def __init__(self,A=-10,a=0.1):                #### contruct the potential in x-space and the matrix element in the equation
-        self.kh=pi/2*np.linspace(0,99,500)        #### here we use 500 plane wave to calculate the band structure
+        self.kh=pi/2*np.linspace(0,499,500)        #### here we use 500 plane wave to calculate the band structure
         self.k=pi/200*np.linspace(0,149,150)         #### the potential can be changed and the parameters A and a can be optimize
         self.e=[]
         self.x=np.linspace(-1,1,1000)
